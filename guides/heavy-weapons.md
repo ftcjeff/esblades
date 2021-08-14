@@ -193,3 +193,9 @@ Describing how to perform an attack cancel is easy. Mastering it in the arena is
 To attack cancel, mash your thumb into the screen to raise our weapon and continue holding it even after the weapon is as high as it goes. Just hold it there. Then, when you're ready swipe your thumb straight down the screen. You know how on your phone you "flick" windows off the screen to close them? It's kind of like that, except you swipe down. Then, 1 millisecond after you've completed that motion, use your left thumb and block.
 
 Again, spend time with Staki until you master the attack cancel and you can stun her most times. As with crits, your next step is to take it to the arena and practice there. The overall speed, chaos, and lag makes it a lot harder to attack cancel there. 
+
+### To RE or not to RE
+
+When you start a match, you have a choice to make in the first 0.1 seconds. Do you mash Resist Elements (RE) or do you go on the attack? It's really up to you and how you like to play. Pops mostly goes on the offense, but if people start guessing that's his plan, he'll hit RE. Never do the same things over and over.o
+
+Note that if you are an RE masher, then you probably also want the Maximum Power (MP) perk to make it last even longer.
