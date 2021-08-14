@@ -108,7 +108,7 @@ Mail armor has the advantage that you get 2 free resists. The resist chart is as
 
 These resists come at a reduction in AR which makes you slightly "squishy". Considering who our worse foes are, however, you can see that these start providing more protection than just raw AR and I've become a strong believer that this is a good thing. If you choose to go the Plate route, that's perfectly fine and as I said previously, Pops started there and did well with it. If you choose to go Mail, then start with Dragon Scale because it's a lot easier to obtain. Daedric, Stalhrim, and Glass you'll need to get from the Sigil Store as "Divine" and then hope you get good enchants with them (and you won't). So, start with Dragon Scale which you can get from your Smithy.
 
-If you work your way up the leaderboard and make it to IA, you'll end up with a full set of _Blades_ Armor. This is pretty cool armor and I've heard it has some advantages (although I don't know what they are). They match with Dragon Plate, so if you're interested in enchanting them to see what you get, keep that in mind.
+If you work your way up the leaderboard and make it to IA, you'll end up with a full set of _Blades_ Armor. This is pretty cool armor and I've heard it has some advantages (although I don't know what they are). They don't match with Dragon Plate or Dragon Scale, so if you're interested in enchanting them to see what you get, keep that in mind.
 
 ### Enchanting Armor
 
