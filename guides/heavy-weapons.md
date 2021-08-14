@@ -1,6 +1,8 @@
 # Pops' Beginner's Guide to Heavy Weapons
 
-Heavy Weapons Fighting (HWF) is just whack whack whack and call it a day, right? Wrong! There are a lot of decisions to be made that make a huge difference in how you'll play and what types of foes will give you the most trouble. As you read through this guide, remember that these are just my opinions after driving Pops and Moms Barbarians for a few seasons. Other HWFs will have different ideas and many will have *better* ideas... so take this all with a grain of salt and consider this a beginner's guide to "2H" or more accurately Heavy Weapons fighting.
+Heavy Weapons Fighting (HWF) is just whack whack whack and call it a day, right? Wrong! There are a lot of decisions to be made that make a huge difference in how you'll play and what types of foes will give you the most trouble. 
+
+As you read through this guide, remember that these are just my opinions after driving Pops Barbarians and Moms Barbarians for a few seasons. Other HWFs will have different strategies and most will have *much better* ideas... so take this all with a grain of salt and consider this a beginner's guide to "2H" or more accurately Heavy Weapons Fighting.
 
 First, the two foes that give me the most trouble are Mages and Versatile Weapons Fighters (VWF) who like to hide behind their shield and spam spells and strikes. When fighting another HWF, it becomes a battle of who can crit more and who stuns. These fights are generally over in a matter of seconds so getting into a debate about casting times and resist durations is useless. Mages give me trouble because the biggest enemy of HWF is stunning (or getting incapacitated). Therefore, with Mages, Ice Spikes, Wall of Fire, and Paralyze are the things to watch out for because they're the things that will keep you from fighting... and as a HWF that's all you've got. With VWF who like to hide behind their shields, the issue is hitting into their high block. They gleefully come out to play after that while you're standing there like an idiot. As you consider the rest of this guide, keep this in mind.
 
@@ -115,6 +117,23 @@ If you work your way up the leaderboard and make it to IA, you'll end up with a 
 How do you enchant your armor? Your chest piece, helmet and boots should all be enchanted with _Peerless Health_. Since health obtains a 3x multiplier in the Arena, it only makes sense to take advantage of that. That said, if you're fighting a pesky mage, you might want to have a bunch of elemental resists boots and helmets laying around. Pesky mages don't do a lot of physical damage, but they do hella elemental damage (including ice spikes and paralyze), so if you can negate that it's better than having the extra health.
 
 Peerless Health isn't enough for your chest piece. You must _also_ get Spell Resist (SR) as a "secondary". If you can get SR and literally _anything else_ that's even better. The "perfect" chest piece would be SR and Shorten Condition. However, anything with SR you can myth.
+
+### Hats and Boots
+
+I use the same strategy for Hats as I do for Boots. Make sure that you craft using the same material (Dragonplate, Dragonscale) as you did for your armor. Then, enchant it with _Peerless Health_ (same 3x multiplier as with armor).
+
+For secondaries, what you're looking for again is Spell Resist (SR) and _anything else_. As before, SR + Shorten Condition is the best you can get, but as with the chest piece, anything with SR is worth tempering to Mythical.
+
+Once you have a good helmet and good boots, the next thing on the agenda is to enchant some elementals. In order, I'd go for:
+
+* Frost
+* Fire
+* Poison
+* Shock
+
+in either helmet form or boot form and eventually both. Again, before you temper to Mythical they must _at least_ have SR on them. Not only will these come in handy during elemental Sigil events, they will help you out in PvP especially when you're fighting pesky mages who spam Frost/Poison at you or when a fellow HWF casts WoF at you. You know who the WoF traitors are, don't you? You don't? Well learn, my friend. Once you know who they are, just put on some fire boots w/ SR and ignore the fire entirely and just wail away on them.
+
+Let's say you've taken your slider all the way to the left or all the way to the right. I've done both and it's a lot of fun, but leaves you quite exposed either in mana or stam. You can craft helmets / boots and enchant them with Peerless Stamina or Peerless Magicka (making sure they have the coveted SR secondary) and use that to boost what you're lacking. You'll lose ~330 health, but if you are able to cast Ward, or RE, or spam a RS then that might just be worth it.
 
 ### Gloves
 
