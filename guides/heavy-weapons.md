@@ -122,7 +122,21 @@ Peerless Health isn't enough for your chest piece. You must _also_ get Spell Res
 
 #### Warlock's Ring
 
-As a HWF, you want Warlock's Ring because it gives you 24% attack speed boost (meaning you can typically get 2 crits in when your opponent stuns instead of just 1) and it gives you 24-29 points of retal against every element (24 vs. frost and shock and 29 vs. fire and poison). This is a legendary artifact, so you can only get it in a Gold, Elder, or Legendary chest. You might get it quickly, you might never get it. When you do, celebrate and then head over to Staki and practice crits with your new attack speed. I practiced 30-60 minutes a day for about 2 weeks before I really got the hang of it. Don't feel stupid working with Staki - it's worth it.
+As a HWF, you want Warlock's Ring (WR) because it gives you 24% attack speed boost (meaning you can typically get 2 crits in when your opponent stuns instead of just 1) and it gives you 24-29 points of retal against every element (24 vs. frost and shock and 29 vs. fire and poison). This is a legendary artifact, so you can only get it in a Gold, Elder, or Legendary chest. You might get it quickly, you might never get it. When you do, celebrate and then head over to Staki and practice crits with your new attack speed. I practiced 30-60 minutes a day for about 2 weeks before I really got the hang of it. Don't feel stupid working with Staki - it's worth it.
+
+#### Ring Continued
+
+Warlock's Ring is interesting because it has a *lot* of advantages, but it comes at a price. The price is the chance to add one more 1x to your stacked enchantment for Enchantment Synergy (ES). This is significant. Of my two toons, Moms is *much* stronger than Pops because she has stacked elemental rings (because she does not have WR). While I can usually get Moms into the top 75, it's really hard getting her much higher. She has other problems with her build, but the lack of speed is certainly one of them.
+
+Therefore, if you choose to use WR, you'll want 1 of the rings described next. If you do not have WR, you'll want 2 of them.
+
+The next thing to realize is that the primary rings boost for HWF are basically useless. You don't want any of your "skills" boosted (because it'll cost more stam for not enough benefit) and you probably don't have any of the spells unlocked anyway. Therefore, craft whatever rings you want. In other words, you don't need to craft Ebony Faerite rings that take 12h... just craft or buy anything.
+
+First, enchant your rings with Subsuming Stamina and you're looking for either max 126+ PDIA **or** 26+ PDOC. If you get both, I'll submit to your awesomeness. However, depending on your PDIA vs. PDOC decision above, that's what you're looking for here because it will stack. The reason you want to start with Subsuming is because you can use it in *all* of your loadouts.
+
+Next, start working on your elemental rings. You'll want level 10 enchants regardless, but work on either PDIA or PDOC (whichever you chose for your armor). As you try the enchants (it takes a while), rotate through the elements because it's easier to farm the materials rotationally rather than, for example, just going for a fire ring.
+
+Once you have all of your rings crafted, _then_ you can start looking for the unicorn PDIA+PDOC combos.
 
 ### Necklaces
 
