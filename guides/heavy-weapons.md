@@ -120,7 +120,7 @@ Peerless Health isn't enough for your chest piece. You must _also_ get Spell Res
 
 Enchant your gloves with Subsuming Stamina and you're looking for either max 126+ PDIA **or** 26+ PDOC depending on your PDIA vs. PDOC decision above. You want to stay consistent because it will stack. The reason you want to start with Subsuming is because you can use it in *all* of your loadouts.
 
-Next, start working on your elemental gloves. You'll want level 10 enchants regardless, but work on either PDIA or PDOC (whichever you chose for your armor). As you try the enchants (it takes a while), rotate through the elements because it's easier to farm the materials rotationally rather than, for example, just going for a fire ring.
+Next, start working on your elemental gloves. You'll want level 10 enchants regardless, but work on either PDIA or PDOC (whichever you chose for your armor). As you try the enchants (it takes a while), rotate through the elements because it's easier to farm the materials rotationally rather than, for example, just going for fire gloves.
 
 Once you have all of your gloves crafted, _then_ you can start looking for the unicorn PDIA+PDOC combos.
 
@@ -128,7 +128,7 @@ Once you have all of your gloves crafted, _then_ you can start looking for the u
 
 #### Warlock's Ring
 
-As a HWF, you want Warlock's Ring (WR) because it gives you 24% attack speed boost (meaning you can typically get 2 crits in when your opponent stuns instead of just 1) and it gives you 24-29 points of retal against every element (24 vs. frost and shock and 29 vs. fire and poison). This is a legendary artifact, so you can only get it in a Gold, Elder, or Legendary chest. You might get it quickly, you might never get it. When you do, celebrate and then head over to Staki and practice crits with your new attack speed. I practiced 30-60 minutes a day for about 2 weeks before I really got the hang of it. Don't feel stupid working with Staki - it's worth it.
+As a HWF, you want Warlock's Ring (WR) because it gives you 24% attack speed boost (meaning you can typically get 2 crits in when your opponent stuns instead of just 1) and it gives you 24-29 points of retal against every element when cast from a spell (24 vs. frost and shock and 29 vs. fire and poison). This is a legendary artifact, so you can only get it in a Gold, Elder, or Legendary chest. You might get it quickly, you might never get it. When you do, celebrate and then head over to Staki and practice crits with your new attack speed. I practiced 30-60 minutes a day for about 2 weeks before I really got the hang of it. Don't feel stupid working with Staki - it's worth it.
 
 #### Ring Continued
 
@@ -140,7 +140,7 @@ The next thing to realize is that the primary rings boost for HWF are basically 
 
 First, enchant your rings with Subsuming Stamina and you're looking for either max 126+ PDIA **or** 26+ PDOC. If you get both, I'll submit to your awesomeness. However, depending on your PDIA vs. PDOC decision above, that's what you're looking for here because it will stack. The reason you want to start with Subsuming is because you can use it in *all* of your loadouts.
 
-Next, start working on your elemental rings. You'll want level 10 enchants regardless, but work on either PDIA or PDOC (whichever you chose for your armor). As you try the enchants (it takes a while), rotate through the elements because it's easier to farm the materials rotationally rather than, for example, just going for a fire ring.
+You'll want to work on your elemental rings next. As with gloves, you'll want level 10 enchants regardless, but work on either PDIA or PDOC (whichever you chose for your armor).
 
 Once you have all of your rings crafted, _then_ you can start looking for the unicorn PDIA+PDOC combos.
 
@@ -176,4 +176,20 @@ Again, PDIA or PDOC depending on your armor and both is a unicorn.
 
 ## Training
 
-## Attack Cancels
+### Critical Strikes
+
+The key to HWF is mastering Critical Strikes (crits). If you hit your crits, you'll win a lot of fights, especially if you work in a few combo crits. Timing is everything and lag is your enemy here. Getting good at crits is a matter of spending time with Staki and practicing.
+
+When you get Warlock's Ring, be prepared to go back and train with Staki until you get the hang of critting with the new speed.
+
+Once you are able to crit Staki at will, take it to the arena. The speed is slightly different, your brain is processing a lot of input, and you'll have lag. All those things make it hard to crit, so practice in the arena as well. Give yourself a few rounds where you don't care about winning or losing, just how well are you critting.
+
+### Attack Cancels
+
+Attack cancels are your ticket to stunning your unsuspecting foe. Once you're tagged an attack canceler, people are wary of it and get a lot harder to stun, so just be advised that it's not a silver bullet. You'll get away with it from time to time, but the better players will avoid it.
+
+Describing how to perform an attack cancel is easy. Mastering it in the arena is anything but.
+
+To attack cancel, mash your thumb into the screen to raise our weapon and continue holding it even after the weapon is as high as it goes. Just hold it there. Then, when you're ready swipe your thumb straight down the screen. You know how on your phone you "flick" windows off the screen to close them? It's kind of like that, except you swipe down. Then, 1 millisecond after you've completed that motion, use your left thumb and block.
+
+Again, spend time with Staki until you master the attack cancel and you can stun her most times. As with crits, your next step is to take it to the arena and practice there. The overall speed, chaos, and lag makes it a lot harder to attack cancel there. 
