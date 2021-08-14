@@ -118,6 +118,12 @@ Peerless Health isn't enough for your chest piece. You must _also_ get Spell Res
 
 ### Gloves
 
+Enchant your gloves with Subsuming Stamina and you're looking for either max 126+ PDIA **or** 26+ PDOC depending on your PDIA vs. PDOC decision above. You want to stay consistent because it will stack. The reason you want to start with Subsuming is because you can use it in *all* of your loadouts.
+
+Next, start working on your elemental gloves. You'll want level 10 enchants regardless, but work on either PDIA or PDOC (whichever you chose for your armor). As you try the enchants (it takes a while), rotate through the elements because it's easier to farm the materials rotationally rather than, for example, just going for a fire ring.
+
+Once you have all of your gloves crafted, _then_ you can start looking for the unicorn PDIA+PDOC combos.
+
 ### Rings
 
 #### Warlock's Ring
