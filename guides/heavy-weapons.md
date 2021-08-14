@@ -146,6 +146,32 @@ Once you have all of your rings crafted, _then_ you can start looking for the un
 
 ### Necklaces
 
+Necklaces are a _giant_ pain in the butt. You know how crappy of a job Lond does crafting necklaces? He almost never gives you the primary boosts you want. You know how crappy of a job Severio does enchanting literally anything? Now, put those together... the odds of getting Lond to make the necklace you want and then having Severio give you the secondaries you want are amazingly low. Regardless, you'll get *something* and that's better than nothing.
+
+So what do you want? As a HWF, you want the following primary boosts (in order):
+
+* +5 Enchantment Synergy (ES)
+* +5 Matching Set (MS)
+* +5 Barbarian
+* +5 Augmented [frost, shock, fire, frost] Ranks
+
+If you don't have +4 or +5 ES, the necklace is junk and should be scrapped. To be super clear, without ES the necklace is useless to you.
+
+Assuming Lond ever gives you something useful (and he will), you take it over to Severio and what do you want from him? It's best to craft "retal" necklaces. If I were doing it over again, I'd do them in this order:
+
+* Frost Retal
+* Poison Retal
+* Shock Retal
+* Fire Retal
+
+Then, the secondary bonuses you'll want are any combination of:
+
+* Shorten Stun 20%
+* PDIA
+* PDOC
+
+Again, PDIA or PDOC depending on your armor and both is a unicorn.
+
 ----
 
 ## Training
