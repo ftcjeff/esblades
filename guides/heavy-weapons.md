@@ -79,7 +79,7 @@ Your best friend here are the sigil store weapons. Get them in this order:
 |SunderBlade|181 damage vs. blocking targets, ravages stamina|
 |BreathTaker|157 damage vs. blocking targets, ravages magicka, ravages stamina|
 
-Some people say the Maul isn't useful unless you're fighting mages, but I have good success with it and I catch a lot of people on fire. The 181 damage of SunderBlade is tempting, and it used to  choice and it could be yours as well, but I've had good success with "Captain Kangaroo's" Saber and it ravages both. BreathTaker and "Captain Kangaroo's" Saber are just re-skins, so if you have one you don't need the other (unless you have Sigil's to burn).
+Some people say the Maul isn't useful unless you're fighting mages, but I have good success with it and I catch a lot of people on fire. The 181 damage of SunderBlade is tempting, and it used to be my first choice (and it could be yours as well), but I've had very good success with "Captain Kangaroo's" Saber and it double-ravages. BreathTaker and "Captain Kangaroo's" Saber are just re-skins (they have exactly the same specs), so if you have one you don't need the other (unless you have Sigil's to burn).
 
 After this, you'll need frost and shock weps. Doesn't matter if you get Dragonbone (DB) or Divine Sigil Weps. I've also been experimenting with weps that don't ravage and I'm finding that I like them. My current weapons are:
 
