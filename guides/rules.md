@@ -27,3 +27,5 @@ Blades **loves** lumber and assumes you do too. You have a level 10 town with al
 **Rule #7**: When shopping in guildie towns, the vendors figure out what mats you’re shopping for and make them as scarce as offensive spells in Pops’ arsenal. You’ll get plenty of what you’re not looking for though.
 
 Jornibret Falcon says this doesn't happen to her, but it sure happens to Pops. If I start buying up Deathbell, for example, literally *none* of the vendors will have it. Next day when I go searching for Frost Salts... nothing but Death Bell.
+
+**Rule #8**: blades will randomly and inexplicably deny you wins by any means possible at any time and for any reason. 

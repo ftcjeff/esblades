@@ -24,7 +24,7 @@ You can read on in this guide, but until you're at level 50 none of this really 
 
 For help building your skill tree and planning it out, see the ES Blades [Skill Tree Calculator](https://esblades.net/skill-tree).
 
-My current split is 350 magicka / 540 stamina, and I think that's been working okay. I just spent a month at 200 / 690 and that was a looooong season of not being able to hit Ward. If you go lower than 350 magicka, you may want to boost that with enchants.
+My current split is 390 magicka / 500 stamina, and I think that's been working okay. I just spent a month at 200 / 690 and that was a looooong season of not being able to hit Ward. If you go lower than 350 magicka, you may want to boost that with enchants.
 
 You don't really want to ask me about spells as a HWF, I stink at them. I tend to go all defensive spells (if I'm able to get them cast at all) and go with Resist Elements (RE) at level 3, Ward at level 3, and Absorb at level 3. That's literally all I have unlocked. Talk to @ghostwill2 if you want to learn how to cast spells at a HWF.
 
@@ -73,12 +73,13 @@ Your best friend here are the sigil store weapons. Get them in this order:
 
 |Sigil Weapon|Specs|
 |---|---|
-|SunderBlade|181 damage vs. blocking targets, ravages stamina|
+|Captain Kordan's Saber|157 damage vs. blocking targets, ravages stamina, ravages magicka|
 |SpiderFang|79 poison damange, ravages stamina, ravages magicka|
 |Maul of the Aureal|79 fire damage, ravages magicka|
+|SunderBlade|181 damage vs. blocking targets, ravages stamina|
 |BreathTaker|157 damage vs. blocking targets, ravages magicka, ravages stamina|
 
-Some people say the Maul isn't useful unless you're fighting mages, but I have good success with it and I catch a lot of people on fire.
+Some people say the Maul isn't useful unless you're fighting mages, but I have good success with it and I catch a lot of people on fire. The 181 damage of SunderBlade is tempting, and it used to  choice and it could be yours as well, but I've had good success with "Captain Kangaroo's" Saber and it ravages both. BreathTaker and "Captain Kangaroo's" Saber are just re-skins, so if you have one you don't need the other (unless you have Sigil's to burn).
 
 After this, you'll need frost and shock weps. Doesn't matter if you get Dragonbone (DB) or Divine Sigil Weps. I've also been experimenting with weps that don't ravage and I'm finding that I like them. My current weapons are:
 
